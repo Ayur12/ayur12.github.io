@@ -9,3 +9,11 @@ h1 {
 	color: #fff;
 	text-transform: uppercase;
 }
+img {
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	border: 1px solid;
+	border-color: yellow;
+	text-align: center;
+}
